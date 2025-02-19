@@ -1,3 +1,13 @@
+Overview
+This project is a web application built using React.js, focusing on a seamless and intuitive user experience.
+
+My Contributions
+🚀 Frontend Development: Developed and optimized UI components using React.js, ensuring responsiveness and accessibility.
+🎨 UI/UX Design: Designed user-friendly interfaces using Figma and implemented intuitive navigation.
+📊 A/B Testing: Conducted experiments to optimize user engagement and performance metrics.
+🐛 Debugging & Optimization: Identified and resolved frontend bugs to enhance app stability and speed.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
